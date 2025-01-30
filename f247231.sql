@@ -45,7 +45,7 @@ prompt APPLICATION 247231 - Human Recourses
 --       Dynamic Actions:          3
 --     Shared Components:
 --       Logic:
---         Build Options:          1
+--         Build Options:          12
 --       Navigation:
 --         Lists:                  2
 --         Breadcrumbs:            1
